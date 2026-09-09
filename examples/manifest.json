@@ -1,0 +1,14 @@
+[
+  {
+    "file": "01.png",
+    "caption": "Vault salute · hand targets solved through two-bone IK",
+    "alt": "A skinned mannequin raising both arms in a vault salute, with visible bones and hand targets",
+    "steps": ["Open the standalone tool.", "Choose the Vault salute pose preset.", "Keep Show bones enabled and Show skin weights disabled.", "Use Reset view, then capture the rendered viewport."]
+  },
+  {
+    "file": "02.png",
+    "caption": "Balance reach · skin weights shown with a 0.43 joint blend width",
+    "alt": "A balancing mannequin with one knee raised and warm-to-cool skin-weight colors across its bent limbs",
+    "steps": ["Choose Balance reach.", "Enable Show skin weights.", "Set Joint blend width to 0.43.", "Use Reset view and capture the computed skinned pose."]
+  }
+]
